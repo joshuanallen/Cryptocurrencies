@@ -7,7 +7,7 @@ The purpose of this repository is to create a report that incldes what cryptocur
 ## Resources
 Data: crypto_data.csv
 
-## Analyis
+## Analysis
 
 The dataset provided includes the coin name and abbreviated name, algorithm used, active trading status, proof type, total coins mined, and total coin supply.
 
